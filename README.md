@@ -12,7 +12,6 @@ reg query "<a href="https://github.com/ReneNyffenegger/about-Windows-Registry/tr
 </pre>
 
 
-
 ## Links
 
 EGG, the [Explostion Graphics Generator](https://github.com/ReneNyffenegger/EGG-Explosion-Graphics-Generator).
