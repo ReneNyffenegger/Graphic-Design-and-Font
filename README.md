@@ -7,7 +7,9 @@ Repository related to Graphics, Design and Fonts
 
 Determining the available fonts an a MS-Windows system with `reg query`:
 
-`reg query "[\HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts](https://github.com/ReneNyffenegger/about-Windows-Registry/tree/master/HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Microsoft%20NT/CurrentVersion/Fonts)"
+<pre>
+reg query "<a href="https://github.com/ReneNyffenegger/about-Windows-Registry/tree/master/HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Microsoft%20NT/CurrentVersion/Fonts">\HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts</a>"
+</pre>
 
 
 
