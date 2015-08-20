@@ -16,6 +16,6 @@ reg query "<a href="https://github.com/ReneNyffenegger/about-Windows-Registry/tr
 
 [Fonts](https://github.com/ReneNyffenegger/Fonts), another repository related to fonts.
 
-EGG, the [Explostion Graphics Generator](https://github.com/ReneNyffenegger/EGG-Explosion-Graphics-Generator).
+EGG, the [Explosion Graphics Generator](https://github.com/ReneNyffenegger/EGG-Explosion-Graphics-Generator).
 
 
